@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router v6 concerning nested routes and wildcard paths.  The issue occurs when using a wildcard path such as `/contact/*` within nested routes.  The provided solution outlines a workaround to correctly render nested routes with wildcard paths.
